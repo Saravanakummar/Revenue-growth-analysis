@@ -1,0 +1,11 @@
+Insight 1
+Organic traffic produces the highest revenue despite lower session volume.
+
+Insight 2
+Mobile users generate more traffic but lower revenue compared to desktop users.
+
+Insight 3
+Approximately X% of orders fail at the payment stage, suggesting checkout friction.
+
+Insight 4
+Top 10 customers contribute a significant share of total revenue.
